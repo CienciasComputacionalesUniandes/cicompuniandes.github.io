@@ -1,2 +1,2 @@
-# computationalscienceuniandes.github.io
-Computational Science Courses at Uniandes
+# computocienciasuniandes.github.io
+Cursos Computacionales para Ciencias de Uniandes
